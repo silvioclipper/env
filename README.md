@@ -1,0 +1,1 @@
+# Studing variable of the enviroment.
